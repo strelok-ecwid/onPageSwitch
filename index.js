@@ -1,5 +1,5 @@
 Ecwid.OnAPILoaded.add(function() {
-    console.log("Ecwid storefront JS API has loaded - 1.0");
+    console.log("Ecwid storefront JS API has loaded - 1.1");
 });
 Ecwid.OnPageSwitch.add(function(page) {
     if (page.type === "PRODUCT") {
